@@ -1,7 +1,7 @@
 # Scoop Bucket
 
-<!-- Uncomment the following line after replacing placeholders -->
-[![Tests](https://github.com/Esgariot/scoop-bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/Esgariot/scoop-bucket [![Excavator](https://github.com/Esgariot/scoop-bucket](https://github.com/Esgariot/scoop-bucket
+[![Tests](https://github.com/Esgariot/scoop-bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/Esgariot/scoop-bucket/actions/workflows/ci.yml)
+[![Excavator](https://github.com/Esgariot/scoop-bucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/Esgariot/scoop-bucket/actions/workflows/excavator.yml)
 
 Bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
 

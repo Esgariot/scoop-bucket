@@ -1,16 +1,15 @@
 {
   "version": "18.3.0",
   "description": "Sync, search and backup shell history with Atuin.",
-  "homepage": "https://github.com/atuinsh/atuin",
+  "homepage": "https://atuin.sh/",
   "license": "MIT",
   "architecture": {
     "64bit": {
       "url": "https://github.com/Esgariot/atuin-win/releases/download/v18.3.0-20240101/atuin.exe",
-      "hash": ""
     }
   },
   "bin": "atuin.exe",
-  "checkver": "github",
+  "checkver": {"github":"https://github.com/Esgariot/atuin-win"},
   "autoupdate": {
     "architecture": {
       "64bit": {
